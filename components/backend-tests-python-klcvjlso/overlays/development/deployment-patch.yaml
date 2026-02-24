@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/backend-tests-python-klcvjlso:073d5f9952425ae2e9caa72cc9ae6ce7ee1d9b65@sha256:bcbf9798c9dc2c344c15d1f3ff0000c551e209e532d5c92dd98c3998fb8c479b
+        - image: quay.io/tsscui/backend-tests-python-klcvjlso:c4e14fa530a29eb5fd184138770ee14c19e42d79@sha256:805f9b40a5e6e467fdea774b654c78fe4d53b5a3942decc7b33e25ecaa0a3393
           name: container-image
